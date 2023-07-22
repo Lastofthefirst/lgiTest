@@ -5222,7 +5222,7 @@ function create_fragment$9(ctx) {
 					"url": "https://images.unsplash.com/photo-1669569243790-1c5c614e5943?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2832&q=80",
 					"size": null
 				},
-				headline: "We're helping make the world a greener place",
+				headline: "Serving Northeastern South Carolina and Southeastern North Carolina\n",
 				logo: {
 					"image": {
 						"alt": "",
